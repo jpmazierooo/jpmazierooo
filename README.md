@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Pedro Maziero
 
-<!--
-**jpmazierooo/jpmazierooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** na UNISUL
+💻 Interessado em desenvolvimento de software e tecnologia
+🚀 Em constante aprendizado na área de programação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+* 📚 Estudando programação e conceitos de desenvolvimento
+* 💡 Focado em evoluir como desenvolvedor
+* ⚡ Interesse em tecnologia e resolução de problemas
+
+---
+
+## 💻 Tecnologias em aprendizado
+
+* ☕ Java
+* 🌐 HTML & CSS
+* 🗄️ Banco de Dados
+
+---
+
+## 🎯 Objetivos
+
+* Me tornar um desenvolvedor profissional
+* Ganhar experiência com projetos reais
+* Conseguir uma oportunidade na área de tecnologia
+
+---
+
+## 📊 GitHub Stats
+
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmazierooo\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmazierooo\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+* jpmazinhooo@gmail.com
+
+---
+
+## ⚽ Curiosidade
+
+* Torcedor do Avaí 🦁💙
+
+---
+
+⭐ Obrigado por visitar meu perfil!
